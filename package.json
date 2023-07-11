@@ -22,7 +22,7 @@
     "@fortawesome/fontawesome-free": "^5.13.0",
     "@types/chart.js": "^2.9.19",
     "angular-bootstrap-md": "~8.10.1",
-    "aws-amplify": "^3.0.8",
+    "aws-amplify": "^5.3.3",
     "aws-amplify-angular": "^5.0.8",
     "chart.js": "^2.5.0",
     "font-awesome": "^4.7.0",
